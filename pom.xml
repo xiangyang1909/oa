@@ -55,7 +55,7 @@
 		<dependency>
 			<groupId>commons-fileupload</groupId>
 			<artifactId>commons-fileupload</artifactId>
-			<version>1.4</version>
+			<version>1.5</version>
 		</dependency>
 		<!-- FILEUPLOAD END -->
 		<!--Spring Boot 开发工具 热启动 开始 -->
